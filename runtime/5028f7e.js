@@ -1,7 +1,7 @@
 (window.webpackJsonp = window.webpackJsonp || []).push([
   [1], {
     "1Sln": function(e, n, t) {
-      e.exports = t.p + "assets/2tsjJYK.mp3"
+      e.exports = t.p + "https://tpcdn.b-cdn.net/gh/CatHead132/fpstetrisoffline@latest/assets/2tsjJYK.mp3"
     },
     DDHu: function(e, n, t) {
       "use strict";
